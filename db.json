@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "ivica",
+      "lastName": "ivancic",
+      "email": "ivica@gmail.com",
+      "username": "mrIvancic",
+      "password": "123456",
+      "passwordConfirm": "123456"
+    },
+    {
+      "id": 2,
+      "firstName": "sara",
+      "lastName": "ivancic",
+      "email": "sara@gmail.com",
+      "username": "SaraKraljica",
+      "password": "123456",
+      "passwordConfirm": "123456"
+    },
+    {
+      "firstName": "Dinesh",
+      "lastName": "Davies",
+      "username": "Ragnheiður_Birgisdóttir",
+      "email": "shimon.lozano543@wanadoo.io",
+      "password": "d",
+      "id": 3
+    },
+    {
+      "firstName": "Jean",
+      "lastName": "Ahmad",
+      "username": "Agata.König13",
+      "email": "tomiko-vasileva@uol.org",
+      "password": "d",
+      "id": 4
+    },
+    {
+      "firstName": "Andreas",
+      "lastName": "Procházka",
+      "username": "Jóhann_Ramírez",
+      "email": "amiyt.mohammed273@centurytel.org",
+      "password": "d",
+      "id": 5
+    },
+    {
+      "firstName": "Antónia",
+      "lastName": "Huang",
+      "username": "François_Khatun",
+      "email": "noamadamu@gmx.name",
+      "password": "da",
+      "id": 6
+    },
+    {
+      "firstName": "Kristinn",
+      "lastName": "Łapiński",
+      "username": "Þórunn.Guerrero",
+      "email": "marta.yakubu971@telenet.dev",
+      "password": "da",
+      "id": 7
+    },
+    {
+      "firstName": "Magdalena",
+      "lastName": "Sekh",
+      "username": "Jóhann_Kumari",
+      "email": "hulda-cruz989@earthlink.com",
+      "password": "da",
+      "id": 8
+    },
+    {
+      "firstName": "Noël",
+      "lastName": "Maina",
+      "username": "Magnús.Ye100",
+      "email": "marcinohayon923@gmx.net",
+      "password": "da",
+      "id": 9
+    }
+  ]
+}

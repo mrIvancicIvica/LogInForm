@@ -1,0 +1,20 @@
+{
+  "SignIn": {
+    "1": "Prijaviti se",
+    "2": "Email Adresa",
+    "3": "Lozinka",
+    "4": "Nemate račun? Prijavite se"
+  },
+
+  "SignUp": {
+    "1": "Ime",
+    "2": "Prezime",
+    "3": "Email Adresa",
+    "4": "Korisničko ime",
+    "5": "Lozinka",
+    "6": "Potvrdite Lozinka",
+    "7": "Slažem se s uvjetima i pravilima privatnosti",
+    "8": "Prijavite se",
+    "9": "Ako imate račun idite na stranicu za prijavu"
+  }
+}

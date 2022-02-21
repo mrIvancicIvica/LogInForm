@@ -1,0 +1,20 @@
+{
+  "SignIn": {
+    "1": "Sign in",
+    "2": "Email Address",
+    "3": "Password",
+    "4": "Don't have an account? Sign Up"
+  },
+  
+  "SignUp": {
+    "1": " First Name",
+    "2": "Last name",
+    "3": "Email",
+    "4": "User name",
+    "5": "Password",
+    "6": "Confirm Password",
+    "7": "I agree with terms conditions and privacy policy",
+    "8": "Sign up",
+    "9": "If you have account go to Login page"
+  }
+}
